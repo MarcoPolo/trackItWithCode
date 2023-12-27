@@ -5,11 +5,14 @@
   "main": "dist/index.js",
   "author": "marcopolo",
   "license": "MIT",
+  "type": "module",
   "devDependencies": {
-    "typescript": "^3.9.7"
+    "typescript": "^5.3.3"
   },
   "dependencies": {
-    "tatooine": "^2.0.46"
+    "lodash": "^4.17.21",
+    "node-fetch": "^3.3.1",
+    "tatooine": "^3.1.1"
   },
   "scripts": {
     "track": "node dist/index.js > scrapedOutput/data.json"
