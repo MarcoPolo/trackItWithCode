@@ -5,9 +5,8 @@ This repo is a batteries included online scraping and tracking toolkit. Use it t
 
 ## Some example use cases
 
-1. Be notified when a new Apple press release comes out.
-2. Scrape ebay for when that thing you've been looking for comes up.
-3. Keep a simple historical record of the top Reddit posts over time.
+1. Scrape ebay for when that thing you've been looking for comes up.
+2. Keep a simple historical record of the top Reddit posts over time.
 
 # How it works
 
